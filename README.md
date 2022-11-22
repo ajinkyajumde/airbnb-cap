@@ -1,7 +1,7 @@
 # Airbnb Data Analysis
 
  
-# Business Problem: 
+## Business Problem: 
 - The objective of this capstone is to do EDA on the given dataset and find out the insights from it.
 
 # Understanding the problem statement:

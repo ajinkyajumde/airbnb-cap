@@ -1,4 +1,6 @@
 # Airbnb Data Analysis
+![image](https://user-images.githubusercontent.com/102477662/203228331-cddcebaa-8566-434a-80a6-6681514a55b7.png)
+
 
  
 ## Business Problem: 
